@@ -7,7 +7,7 @@ description: "口中有德，目中有人，心中有爱，行中有善"
 keyword: "XYSTOWN, Charles's Blog, charles的博客, Charles, Charles·Seymour, DevOps, java"
 url: "http://xystown.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/xystown/xystown.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
