@@ -1,10 +1,10 @@
 # Site settings
-title: XYSTOWN
+title: XYStown
 SEOTitle: Charles's Blog
 header-img: img/post-bg-desk.jpg
 email: wangzgsx@gmail.com
 description: "口中有德，目中有人，心中有爱，行中有善"
-keyword: "XYSTOWN, Charles's Blog, charles的博客, Charles, Charles·Seymour, DevOps, java"
+keyword: "XYSTOWN, XYStown, Charles's Blog, charles的博客, Charles, Charles·Seymour, DevOps, java"
 url: "http://xystown.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xystown/xystown.github.io" # you code repository
